@@ -8,7 +8,7 @@ Soy un chico tranquilo, simpatico, disciplinado y amable. Me gusta el baloncesto
 <br><br>
 Este es mi repositorio personal, úsalo como quieras. En ellos subo proyectos que aplico a temas personales/profesionales o de clase 🛠. 
 <br><br>
-También puedes acceder a mi 🚀 <a href="guillermooom.github.io">página web</a> donde poco a poco podrás conocerme un poco más 🔍.
+También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">página web</a> donde poco a poco podrás conocerme un poco más 🔍.
 <hr>
 <p aling-items="space-between">
   
