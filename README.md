@@ -23,8 +23,6 @@ También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">pági
     <img alt="CSS3 logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/250px-CSS3_logo.svg.png" height="45">
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" 
   height="45">
-   <img loading="lazy" src="https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png" 
-  height="45">
    <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
   height="45">
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" 
