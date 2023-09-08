@@ -24,7 +24,7 @@ También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">pági
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" 
   height="45">
    <img loading="lazy" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png" 
-  height="45">
+  height="45"> Git
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" 
   height="45">
   <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" class="svg mw-mmv-dialog-is-open"  height="45">
