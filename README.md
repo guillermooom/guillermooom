@@ -24,7 +24,7 @@ También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">pági
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" 
   height="45">
    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="45" height="45" alt="Java icon" title="Java icon">
-    <img width="45" height="45" src="/images/logos/logomark-orange@2x.png">
+    <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="45">
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" 
   height="45">
   <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" class="svg mw-mmv-dialog-is-open"  height="45">
