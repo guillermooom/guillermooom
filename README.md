@@ -6,7 +6,7 @@ Hola soy Guillermo 👋 soy estudiante de informatica que actualmente resido en 
 <br><br>
 Soy un chico tranquilo, simpatico, disciplinado y amable. Me gusta el baloncesto, pasar el rato con mis amigos, jugar a videojuegos y soy un apasinado del mundo del ferrocarril
 <br><br>
-Este es mi repositorio personal, úsalo como quieras. En ellos subo proyectos que aplico a temas personales/profesionales o de clase 🛠. 
+Este es mi repositorio personal. En ellos subo proyectos que aplico a temas personales/profesionales o de clase 🛠. 
 <br><br>
 También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">página web</a> donde poco a poco podrás conocerme un poco más 🔍.
 <hr>
