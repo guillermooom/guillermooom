@@ -29,4 +29,7 @@ También puedes acceder a mi 🚀 <a href="https://guillermooom.github.io">pági
   height="45">
   <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mysql.svg/800px-Mysql.svg.png" class="svg mw-mmv-dialog-is-open"  height="45">
   <img crossorigin="anonymous" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" class="mw-mmv-final-image svg mw-mmv-dialog-is-open" height="45">
+  <img crossorigin="anonymous" src="https://angular.io/assets/images/logos/angular/angular.png" class="mw-mmv-final-image svg mw-mmv-dialog-is-open" height="45">
+  <img crossorigin="anonymous" src="https://www.clipartmax.com/png/middle/241-2411261_categories-spring-tool-suite-icon.png" class="mw-mmv-final-image svg mw-mmv-dialog-is-open" height="45">
+    
 </p>
