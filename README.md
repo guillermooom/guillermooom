@@ -2,9 +2,9 @@
     <img alt="guillermooom-github"src="https://komarev.com/ghpvc/?username=guillermooom&label=Profile+Views">
     <img alt="guillermooom-github" src="https://img.shields.io/github/followers/guillermooom?color=success&label=Followers&style=social">
   </p>
-Hola soy Guillermo 👋 soy estudiante de informatica que actualmente resido en leganés. Tengo el titulo de <b>Técnico en Sistemas MicroInformáticos y Redes</b> y el titulo de <b>Desarrollo en Aplicaciones Web</b> , actualmente estoy acabando el curso de <b>Desarrollo en Aplicaciones Multiplataforma</b>.
+Hola soy Guillermo 👋 soy estudiante de informatica que actualmente resido en leganés. Tengo el titulo de <b>Técnico en Sistemas MicroInformáticos y Redes</b> , el titulo de <b>Desarrollo en Aplicaciones Web</b> y el titulo de <b>Desarrollo en Aplicaciones Multiplataforma</b> , actualmente estoy en busca de mi primera experiencia laboral.
 <br><br>
-Soy un chico tranquilo, simpatico, disciplinado y amable. Me gusta el baloncesto, pasar el rato con mis amigos, jugar a videojuegos y soy un apasinado del mundo del ferrocarril
+Soy un chico tranquilo, simpatico, disciplinado y amable. Me gusta el deporte, pasar el rato con mis amigos, aprender cada dia a programar mejor y soy un apasinado del mundo del ferrocarril
 <br><br>
 Este es mi repositorio personal. En ellos subo proyectos que aplico a temas personales/profesionales o de clase 🛠. 
 <br><br>
